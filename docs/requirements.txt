@@ -1,5 +1,5 @@
-sphinx==7.2.6
-furo==2023.9.10
+sphinx==9.1.0
+furo==2025.12.19
 sphinx-autobuild
 sphinx-copybutton
 myst-parser
